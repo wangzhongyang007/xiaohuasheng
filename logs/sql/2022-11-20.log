@@ -1,0 +1,153 @@
+2022-11-20 18:35:53.996 [DEBU] {60ac6463974429173bc8a32d6078762b} [ 79 ms] [default] [rows:6  ] SHOW FULL COLUMNS FROM `evente_e_card`
+2022-11-20 18:35:54.005 [DEBU] {60ac6463974429173bc8a32d6078762b} [  8 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 18:35:54.047 [DEBU] {60ac6463974429173bc8a32d6078762b} [ 41 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 18:35:54.048 [DEBU] {60ac6463974429173bc8a32d6078762b} [  0 ms] [default] [rows:2  ] SELECT * FROM `evente_e_card` LIMIT 0,10
+2022-11-20 18:35:58.926 [DEBU] {e0d5fd8d984429173dc8a32de271b27e} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 18:35:58.928 [DEBU] {e0d5fd8d984429173dc8a32de271b27e} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 18:35:58.930 [DEBU] {e0d5fd8d984429173dc8a32de271b27e} [  1 ms] [default] [rows:2  ] SELECT * FROM `evente_e_card` LIMIT 0,10
+2022-11-20 18:36:01.691 [DEBU] {7801cc32994429173ec8a32da2bc60ad} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 18:36:01.694 [DEBU] {7801cc32994429173ec8a32da2bc60ad} [  2 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 18:36:01.695 [DEBU] {7801cc32994429173ec8a32da2bc60ad} [  1 ms] [default] [rows:2  ] SELECT * FROM `evente_e_card` LIMIT 0,10
+2022-11-20 18:36:58.497 [DEBU] {f8fd1d6ba644291740c8a32d47f31c20} [ 27 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 18:36:58.499 [DEBU] {f8fd1d6ba644291740c8a32d47f31c20} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 18:36:58.500 [DEBU] {f8fd1d6ba644291740c8a32d47f31c20} [  0 ms] [default] [rows:2  ] SELECT * FROM `evente_e_card` LIMIT 0,10
+2022-11-20 18:42:11.980 [DEBU] {684fca68ef44291741c8a32d722250cd} [ 17 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 18:42:11.985 [DEBU] {684fca68ef44291741c8a32d722250cd} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 18:42:11.986 [DEBU] {684fca68ef44291741c8a32d722250cd} [  0 ms] [default] [rows:2  ] SELECT * FROM `evente_e_card` LIMIT 0,10
+2022-11-20 18:42:13.464 [DEBU] {10752fc2ef44291742c8a32dac1e3694} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 18:42:13.466 [DEBU] {10752fc2ef44291742c8a32dac1e3694} [  2 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 18:42:13.467 [DEBU] {10752fc2ef44291742c8a32dac1e3694} [  0 ms] [default] [rows:2  ] SELECT * FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:00:07.402 [DEBU] {f04817cce94529170d15e96154f13afa} [ 28 ms] [default] [rows:6  ] SHOW FULL COLUMNS FROM `evente_e_card`
+2022-11-20 19:00:07.403 [DEBU] {f04817cce94529170d15e96154f13afa} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:00:07.407 [DEBU] {f04817cce94529170d15e96154f13afa} [  3 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:00:07.408 [DEBU] {f04817cce94529170d15e96154f13afa} [  0 ms] [default] [rows:2  ] SELECT * FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:03:04.412 [DEBU] {00cd0804134629170e15e961e1af840f} [  9 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:03:04.415 [DEBU] {00cd0804134629170e15e961e1af840f} [  2 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:03:04.416 [DEBU] {00cd0804134629170e15e961e1af840f} [  1 ms] [default] [rows:2  ] SELECT * FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:03:06.161 [DEBU] {1843c66c134629170f15e961fdaeb9f8} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:03:06.164 [DEBU] {1843c66c134629170f15e961fdaeb9f8} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:03:06.165 [DEBU] {1843c66c134629170f15e961fdaeb9f8} [  1 ms] [default] [rows:2  ] SELECT * FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:05:13.578 [DEBU] {6869bb1531462917a945960ea3c2e91b} [ 26 ms] [default] [rows:6  ] SHOW FULL COLUMNS FROM `evente_e_card`
+2022-11-20 19:05:13.582 [DEBU] {6869bb1531462917a945960ea3c2e91b} [  2 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:05:13.584 [DEBU] {6869bb1531462917a945960ea3c2e91b} [  2 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:05:13.585 [DEBU] {6869bb1531462917a945960ea3c2e91b} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:05:13.589 [DEBU] {6869bb1531462917a945960ea3c2e91b} [  4 ms] [default] [rows:8  ] SHOW FULL COLUMNS FROM `evente_e_card_extend`
+2022-11-20 19:05:13.592 [DEBU] {6869bb1531462917a945960ea3c2e91b} [  2 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:06:42.383 [DEBU] {a820fac045462917936d81295b3cb65c} [ 60 ms] [default] [rows:6  ] SHOW FULL COLUMNS FROM `evente_e_card`
+2022-11-20 19:06:42.387 [DEBU] {a820fac045462917936d81295b3cb65c} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:06:42.398 [DEBU] {a820fac045462917936d81295b3cb65c} [ 11 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:06:42.399 [DEBU] {a820fac045462917936d81295b3cb65c} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:06:42.402 [DEBU] {a820fac045462917936d81295b3cb65c} [  2 ms] [default] [rows:8  ] SHOW FULL COLUMNS FROM `evente_e_card_extend`
+2022-11-20 19:06:42.403 [DEBU] {a820fac045462917936d81295b3cb65c} [  0 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:06:49.064 [DEBU] {70c79e51474629173ab8c84a546bbf77} [ 19 ms] [default] [rows:6  ] SHOW FULL COLUMNS FROM `evente_e_card`
+2022-11-20 19:06:49.066 [DEBU] {70c79e51474629173ab8c84a546bbf77} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:06:49.067 [DEBU] {70c79e51474629173ab8c84a546bbf77} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:06:49.068 [DEBU] {70c79e51474629173ab8c84a546bbf77} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:06:49.070 [DEBU] {70c79e51474629173ab8c84a546bbf77} [  2 ms] [default] [rows:8  ] SHOW FULL COLUMNS FROM `evente_e_card_extend`
+2022-11-20 19:06:49.071 [DEBU] {70c79e51474629173ab8c84a546bbf77} [  1 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:06:49.784 [DEBU] {e8d5b47d474629173bb8c84a0191d4b2} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:06:49.786 [DEBU] {e8d5b47d474629173bb8c84a0191d4b2} [  2 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:06:49.787 [DEBU] {e8d5b47d474629173bb8c84a0191d4b2} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:06:49.788 [DEBU] {e8d5b47d474629173bb8c84a0191d4b2} [  0 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:06:50.008 [DEBU] {28b7178b474629173cb8c84a9324b041} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:06:50.010 [DEBU] {28b7178b474629173cb8c84a9324b041} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:06:50.011 [DEBU] {28b7178b474629173cb8c84a9324b041} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:06:50.012 [DEBU] {28b7178b474629173cb8c84a9324b041} [  0 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:11:24.716 [DEBU] {38134e7b8746291795e37e17b22e24a6} [ 94 ms] [default] [rows:6  ] SHOW FULL COLUMNS FROM `evente_e_card`
+2022-11-20 19:11:24.722 [DEBU] {38134e7b8746291795e37e17b22e24a6} [  2 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:11:24.724 [DEBU] {38134e7b8746291795e37e17b22e24a6} [  2 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:11:24.725 [DEBU] {38134e7b8746291795e37e17b22e24a6} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:11:24.729 [DEBU] {38134e7b8746291795e37e17b22e24a6} [  3 ms] [default] [rows:8  ] SHOW FULL COLUMNS FROM `evente_e_card_extend`
+2022-11-20 19:11:24.730 [DEBU] {38134e7b8746291795e37e17b22e24a6} [  1 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:11:26.611 [DEBU] {f8e8e1f18746291796e37e17112c495b} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:11:26.613 [DEBU] {f8e8e1f18746291796e37e17112c495b} [  2 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:11:26.614 [DEBU] {f8e8e1f18746291796e37e17112c495b} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:11:26.617 [DEBU] {f8e8e1f18746291796e37e17112c495b} [  1 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:11:48.336 [DEBU] {18acffff8c4629173213417a801a5c9e} [ 13 ms] [default] [rows:6  ] SHOW FULL COLUMNS FROM `evente_e_card`
+2022-11-20 19:11:48.339 [DEBU] {18acffff8c4629173213417a801a5c9e} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:11:48.341 [DEBU] {18acffff8c4629173213417a801a5c9e} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:11:48.342 [DEBU] {18acffff8c4629173213417a801a5c9e} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:11:48.346 [DEBU] {18acffff8c4629173213417a801a5c9e} [  3 ms] [default] [rows:8  ] SHOW FULL COLUMNS FROM `evente_e_card_extend`
+2022-11-20 19:11:48.347 [DEBU] {18acffff8c4629173213417a801a5c9e} [  1 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:15:30.403 [DEBU] {483e6ab3c0462917ce6c264f109214bb} [ 27 ms] [default] [rows:6  ] SHOW FULL COLUMNS FROM `evente_e_card`
+2022-11-20 19:15:30.407 [DEBU] {483e6ab3c0462917ce6c264f109214bb} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:15:30.409 [DEBU] {483e6ab3c0462917ce6c264f109214bb} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:15:30.410 [DEBU] {483e6ab3c0462917ce6c264f109214bb} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:15:30.412 [DEBU] {483e6ab3c0462917ce6c264f109214bb} [  2 ms] [default] [rows:8  ] SHOW FULL COLUMNS FROM `evente_e_card_extend`
+2022-11-20 19:15:30.433 [DEBU] {483e6ab3c0462917ce6c264f109214bb} [ 21 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE `card_id` IN(1,2)
+2022-11-20 19:15:39.178 [DEBU] {88c002c0c2462917cf6c264f1bb5e8de} [  2 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:15:39.180 [DEBU] {88c002c0c2462917cf6c264f1bb5e8de} [  2 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:15:39.181 [DEBU] {88c002c0c2462917cf6c264f1bb5e8de} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:15:39.184 [DEBU] {88c002c0c2462917cf6c264f1bb5e8de} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE `card_id` IN(1,2)
+2022-11-20 19:15:55.402 [DEBU] {d8270887c6462917d06c264f894e58e2} [  2 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:15:55.406 [DEBU] {d8270887c6462917d06c264f894e58e2} [  2 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:15:55.407 [DEBU] {d8270887c6462917d06c264f894e58e2} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:15:55.408 [DEBU] {d8270887c6462917d06c264f894e58e2} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE `card_id` IN(1,2)
+2022-11-20 19:15:58.495 [DEBU] {a899413dc74629173f567c510862f0c8} [ 36 ms] [default] [rows:6  ] SHOW FULL COLUMNS FROM `evente_e_card`
+2022-11-20 19:15:58.498 [DEBU] {a899413dc74629173f567c510862f0c8} [  3 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:15:58.512 [DEBU] {a899413dc74629173f567c510862f0c8} [ 13 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:15:58.513 [DEBU] {a899413dc74629173f567c510862f0c8} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:15:58.517 [DEBU] {a899413dc74629173f567c510862f0c8} [  3 ms] [default] [rows:8  ] SHOW FULL COLUMNS FROM `evente_e_card_extend`
+2022-11-20 19:15:58.518 [DEBU] {a899413dc74629173f567c510862f0c8} [  1 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:15:58.739 [DEBU] {d04f024ec746291740567c518e50babe} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:15:58.742 [DEBU] {d04f024ec746291740567c518e50babe} [  2 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:15:58.743 [DEBU] {d04f024ec746291740567c518e50babe} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:15:58.744 [DEBU] {d04f024ec746291740567c518e50babe} [  1 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:16:00.443 [DEBU] {402089b3c746291741567c51dc5ca107} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:16:00.445 [DEBU] {402089b3c746291741567c51dc5ca107} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:16:00.446 [DEBU] {402089b3c746291741567c51dc5ca107} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:16:00.447 [DEBU] {402089b3c746291741567c51dc5ca107} [  0 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:16:01.251 [DEBU] {00229ce3c746291742567c512f46eb7e} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:16:01.254 [DEBU] {00229ce3c746291742567c512f46eb7e} [  2 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:16:01.256 [DEBU] {00229ce3c746291742567c512f46eb7e} [  2 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:16:01.257 [DEBU] {00229ce3c746291742567c512f46eb7e} [  0 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:16:01.863 [DEBU] {306e2d08c846291743567c517375e6cf} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:16:01.865 [DEBU] {306e2d08c846291743567c517375e6cf} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:16:01.866 [DEBU] {306e2d08c846291743567c517375e6cf} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:16:01.867 [DEBU] {306e2d08c846291743567c517375e6cf} [  0 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:16:02.332 [DEBU] {a8061024c846291744567c5170784af4} [  2 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:16:02.345 [DEBU] {a8061024c846291744567c5170784af4} [ 12 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:16:02.346 [DEBU] {a8061024c846291744567c5170784af4} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:16:02.347 [DEBU] {a8061024c846291744567c5170784af4} [  0 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:18:54.331 [DEBU] {38b47b2ff046291745567c514af3f35b} [ 11 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:18:54.333 [DEBU] {38b47b2ff046291745567c514af3f35b} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:18:54.334 [DEBU] {38b47b2ff046291745567c514af3f35b} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:18:54.335 [DEBU] {38b47b2ff046291745567c514af3f35b} [  1 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:18:56.420 [DEBU] {80fa1aacf046291746567c51eecdaae8} [  9 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:18:56.440 [DEBU] {80fa1aacf046291746567c51eecdaae8} [ 18 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:18:56.441 [DEBU] {80fa1aacf046291746567c51eecdaae8} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:18:56.443 [DEBU] {80fa1aacf046291746567c51eecdaae8} [  1 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:20:10.525 [DEBU] {e0d1b4ec014729176c7d1e6dbbbcbff4} [ 14 ms] [default] [rows:6  ] SHOW FULL COLUMNS FROM `evente_e_card`
+2022-11-20 19:20:10.526 [DEBU] {e0d1b4ec014729176c7d1e6dbbbcbff4} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:20:10.527 [DEBU] {e0d1b4ec014729176c7d1e6dbbbcbff4} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:20:10.529 [DEBU] {e0d1b4ec014729176c7d1e6dbbbcbff4} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:20:10.531 [DEBU] {e0d1b4ec014729176c7d1e6dbbbcbff4} [  2 ms] [default] [rows:8  ] SHOW FULL COLUMNS FROM `evente_e_card_extend`
+2022-11-20 19:20:10.532 [DEBU] {e0d1b4ec014729176c7d1e6dbbbcbff4} [  0 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:20:12.033 [DEBU] {d0db6947024729176d7d1e6d769e7e97} [  2 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:20:12.039 [DEBU] {d0db6947024729176d7d1e6d769e7e97} [  5 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:20:12.040 [DEBU] {d0db6947024729176d7d1e6d769e7e97} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:20:12.042 [DEBU] {d0db6947024729176d7d1e6d769e7e97} [  1 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:20:12.882 [DEBU] {e07a1e7a024729176e7d1e6ddd4bf058} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:20:13.208 [DEBU] {e07a1e7a024729176e7d1e6ddd4bf058} [323 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:20:13.209 [DEBU] {e07a1e7a024729176e7d1e6ddd4bf058} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:20:13.215 [DEBU] {e07a1e7a024729176e7d1e6ddd4bf058} [  6 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:20:14.069 [DEBU] {3844cfc0024729176f7d1e6d46e81c88} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:20:14.072 [DEBU] {3844cfc0024729176f7d1e6d46e81c88} [  3 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:20:14.073 [DEBU] {3844cfc0024729176f7d1e6d46e81c88} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:20:14.076 [DEBU] {3844cfc0024729176f7d1e6d46e81c88} [  1 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:20:22.744 [DEBU] {483a09c504472917e4d8d4065b51c67e} [ 14 ms] [default] [rows:6  ] SHOW FULL COLUMNS FROM `evente_e_card`
+2022-11-20 19:20:22.746 [DEBU] {483a09c504472917e4d8d4065b51c67e} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:20:22.747 [DEBU] {483a09c504472917e4d8d4065b51c67e} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:20:22.748 [DEBU] {483a09c504472917e4d8d4065b51c67e} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:20:22.751 [DEBU] {483a09c504472917e4d8d4065b51c67e} [  2 ms] [default] [rows:8  ] SHOW FULL COLUMNS FROM `evente_e_card_extend`
+2022-11-20 19:20:22.752 [DEBU] {483a09c504472917e4d8d4065b51c67e} [  1 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:20:23.709 [DEBU] {b8ad68ff04472917e5d8d40661835dc1} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:20:23.711 [DEBU] {b8ad68ff04472917e5d8d40661835dc1} [  2 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:20:23.712 [DEBU] {b8ad68ff04472917e5d8d40661835dc1} [  1 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:20:23.713 [DEBU] {b8ad68ff04472917e5d8d40661835dc1} [  0 ms] [default] [rows:0  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE 0=1
+2022-11-20 19:25:47.643 [DEBU] {a886066b504729178160574bcaa73158} [  6 ms] [default] [rows:6  ] SHOW FULL COLUMNS FROM `evente_e_card`
+2022-11-20 19:25:47.645 [DEBU] {a886066b504729178160574bcaa73158} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:25:47.647 [DEBU] {a886066b504729178160574bcaa73158} [  1 ms] [default] [rows:1  ] SELECT COUNT(1) FROM `evente_e_card`
+2022-11-20 19:25:47.648 [DEBU] {a886066b504729178160574bcaa73158} [  0 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_name`,`sale_start_date`,`sale_stop_date`,`usage` FROM `evente_e_card` LIMIT 0,10
+2022-11-20 19:25:47.650 [DEBU] {a886066b504729178160574bcaa73158} [  2 ms] [default] [rows:8  ] SHOW FULL COLUMNS FROM `evente_e_card_extend`
+2022-11-20 19:25:47.652 [DEBU] {a886066b504729178160574bcaa73158} [  2 ms] [default] [rows:2  ] SELECT `id`,`org_id`,`card_id`,`event_id`,`screenings_id`,`price_id` FROM `evente_e_card_extend` WHERE `card_id` IN(1,2)
